@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <h1 align="center">Hi 👋, I'm Pratap Mandal</h1>
 
