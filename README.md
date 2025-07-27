@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-<h1 align="center">Hi 👋, I'm Pratap  </h1>
+<h1 align="center">Hi 👋, I'm Pratap Mandal </h1>
 
 - 🔭 Skilled and curious data enthusiast, transforming raw data into actionable insights through effective data storytelling.  
 - 👯 Looking to collaborate and grow with a team in a full-time data analyst role.  
